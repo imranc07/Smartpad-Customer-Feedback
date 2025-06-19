@@ -141,6 +141,7 @@ To generate an HTML report:
 
 ## Project Structure
 
+```
 The project follows a standard Page Object Model (POM) structure for better maintainability and readability.
 
 Smartpad Customer feedback/
@@ -163,3 +164,4 @@ Smartpad Customer feedback/
 ├── requirements.txt         # Lists project dependencies
 │
 └── README.md                # Project documentation
+```
